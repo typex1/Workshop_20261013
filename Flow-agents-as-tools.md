@@ -1,5 +1,7 @@
 # Agents as Tools — Component Flow
 
+Source: https://github.com/strands-agents/samples/blob/main/python/01-learn/10-agents-as-tools/agent-as-tools.ipynb
+
 This document shows how agents and tools connect to each other in the three patterns demonstrated in the notebook.
 
 ---
